@@ -17,3 +17,6 @@ Breadth-first search-https://en.wikipedia.org/wiki/Breadth-first_search.
 Depth-first search-https://en.wikipedia.org/wiki/Depth-first_search.
 
 Best-first search-https://en.wikipedia.org/wiki/Best-first_search.
+
+Task B:
+Later in the project we created a pair of servers that provide service to a multitude of clients. The first server's role is to generate mazes on demand. The second server's role is to solve mazes. When a client connects to a server that creates mazes, it will send it the parameters to create the maze and receive back a maze object. When a client connects to a server that solves mazes, it will send it an existing maze and receive back from the server a solution to the maze. In order to shorten the communication time, we will have to compress the information that passes between them before sending. The receiving party will open the compression and enjoy the information. Another thing we do on the server side is to save solutions that we have already calculated, so that if we are asked to solve a problem that has already been solved, we will pull the solution from the file instead of recalculating it.
