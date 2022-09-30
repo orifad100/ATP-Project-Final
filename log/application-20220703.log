@@ -1,0 +1,151 @@
+2022-07-03 18:50:00.141 [Thread-14] INFO  Server.Server - Server has initialized with ip DESKTOP-3NP09SE/192.168.202.1 and port 5400
+2022-07-03 18:50:00.141 [Thread-13] INFO  Server.Server - Server has initialized with ip DESKTOP-3NP09SE/192.168.202.1 and port 5401
+2022-07-03 18:50:01.143 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 18:50:01.143 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 18:50:01.143 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 18:50:01.143 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 18:50:02.143 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 18:50:02.143 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 18:50:02.144 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 18:50:02.144 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 18:50:03.143 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 18:50:03.143 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 18:50:03.143 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 18:50:03.143 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 18:50:03.527 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 18:50:04.144 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 18:50:04.144 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 18:50:04.528 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 18:50:04.528 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 18:50:05.145 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 18:50:05.145 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 18:50:05.527 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 18:50:05.528 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:16.981 [Thread-13] INFO  Server.Server - Server has initialized with ip DESKTOP-3NP09SE/192.168.202.1 and port 5401
+2022-07-03 19:22:16.981 [Thread-14] INFO  Server.Server - Server has initialized with ip DESKTOP-3NP09SE/192.168.202.1 and port 5400
+2022-07-03 19:22:17.985 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:17.985 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:17.986 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:17.986 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:18.986 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:18.986 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:18.986 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:18.986 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:19.986 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:19.986 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:19.986 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:19.986 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:20.986 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:20.986 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:20.986 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:20.986 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:21.987 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:21.987 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:21.987 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:21.987 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:22.085 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:22.987 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:22.987 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:23.085 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:23.085 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:23.988 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:23.988 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:24.086 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:24.086 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:24.989 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:24.989 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:25.088 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:25.088 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:25.989 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:25.990 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:26.088 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:26.088 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:26.991 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:26.991 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:27.090 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:27.090 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:27.229 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:28.090 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:28.090 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:28.228 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:28.229 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:29.092 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:29.092 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:29.229 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:29.229 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:30.092 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:30.093 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:30.230 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:30.231 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:31.095 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:31.095 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:31.231 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:31.231 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:32.096 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:32.096 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:32.232 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:32.232 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:33.096 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:33.096 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:33.232 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:33.233 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:34.096 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:34.096 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:34.234 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:34.234 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:35.098 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:35.098 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:35.236 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:35.236 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:36.097 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:36.098 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:36.236 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:36.237 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:37.099 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:37.099 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:37.237 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:37.237 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:38.099 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:38.099 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:38.238 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:38.239 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:39.100 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:39.100 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:39.238 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:39.239 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:40.101 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:40.102 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:40.239 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:40.240 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:41.102 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:41.102 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:41.241 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:41.241 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:42.102 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:42.103 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:42.241 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:42.242 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:43.103 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:43.103 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:43.242 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:43.243 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:44.104 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:44.104 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:44.243 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:44.243 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:45.104 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:45.104 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:45.243 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:45.243 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:46.104 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:46.105 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:46.243 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:46.243 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:47.110 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:47.110 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:47.249 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:47.249 [Thread-13] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:48.125 [Thread-14] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:48.125 [Thread-14] INFO  Server.Server - Client has been accepted
+2022-07-03 19:22:48.258 [Thread-13] INFO  Server.Server - Socket timeout
+2022-07-03 19:22:48.258 [Thread-13] INFO  Server.Server - Client has been accepted

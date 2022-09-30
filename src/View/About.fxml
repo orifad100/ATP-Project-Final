@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="671.0" prefWidth="565.0" styleClass="bodybg1" stylesheets="@ABOUT.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.PropertiesController">
+    <children>
+        <TextArea layoutX="11.0" layoutY="14.0" prefHeight="110.0" prefWidth="468.0" style="-fx-background-color: TRANSPARENT;" text="So.. about us?&#10;We are here to make you regret!&#10;&#10;Working by the name: The Angel of Death &amp; Your Nightmare ">
+            <font>
+                <Font name="Bell MT" size="17.0" />
+            </font>
+        </TextArea>
+    </children>
+</AnchorPane>

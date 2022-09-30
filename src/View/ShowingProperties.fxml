@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="459.0" prefWidth="679.0" styleClass="bodybg2" stylesheets="@Prop.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.PropertiesController">
+    <children>
+        <TextArea layoutX="11.0" layoutY="14.0" prefHeight="162.0" prefWidth="554.0" style="-fx-background-color: TRANSPARENT;" text="Properties:&#10;&#10;The amount of threadPool size we are using is 2.&#10;Our maze generating algorithm is MyMazeGenerator.&#10;Our maze searching algorithm is BreadthFirstSearch.&#10;">
+            <font>
+                <Font name="Algerian" size="18.0" />
+            </font>
+        </TextArea>
+    </children>
+</AnchorPane>
