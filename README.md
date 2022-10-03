@@ -53,5 +53,4 @@ Later in the project we created a pair of servers that provided service to multi
 Task C: 
 
 In this part we implemented the GUI of the project using the MVVM architecture. 
-
 When we wrote the program using a GUI, We made sure to correctly divide it into classes and make the code generic so that if we wanted to "remove" the maze and use a different game based on the same principles and algorithms we used wouldn't have to redo anything.
