@@ -2,7 +2,7 @@
 
   
 
-C# project - Advanced Topics in Programming course, 2nd semester, 2nd year. 
+Java project - Advanced Topics in Programming course, 2nd semester, 2nd year. 
 
   
 
